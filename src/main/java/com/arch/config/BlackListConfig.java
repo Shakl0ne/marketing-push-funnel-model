@@ -1,0 +1,7 @@
+package com.arch.config;
+
+/**
+ * @author shaco
+ */
+public class BlackListConfig extends Config {
+}
